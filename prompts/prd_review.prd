@@ -1,0 +1,40 @@
+We are building an AI Job Application Tracker.
+
+Read:
+- AGENTS.md
+- docs/PRD.md
+
+Act as a critical senior software engineer
+reviewing the MVP requirements.
+
+Your task is to identify problems in the PRD.
+
+Focus on:
+
+1. Missing business requirements
+2. Ambiguous business rules
+3. Contradictions
+4. Missing edge cases
+5. Unclear acceptance criteria
+6. Potential overengineering
+7. Security and data integrity risks
+
+For each finding, provide:
+
+- Severity: High / Medium / Low
+- Related requirement
+- Description of the problem
+- Potential consequences
+- Recommended resolution
+
+Constraints:
+
+- Do not modify any files.
+- Do not write implementation code.
+- Do not propose a technology stack yet.
+- Do not expand the MVP unnecessarily.
+- Separate confirmed requirements from assumptions.
+
+Finally, identify the five most important
+questions that must be resolved before
+starting system design.
